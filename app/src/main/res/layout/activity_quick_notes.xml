@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="25dp"
+        android:orientation="vertical"
+        android:background="#FFFBE6">
+
+        <EditText
+            android:id="@+id/edtQuickTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Quick Note Title"
+            android:padding="10dp"
+            android:background="@android:drawable/editbox_background"
+            android:textColor="@color/black"
+            android:textSize="16sp"/>
+
+        <EditText
+            android:id="@+id/edtQuickContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Type your note here..."
+            android:inputType="textMultiLine"
+            android:lines="4"
+            android:gravity="top"
+            android:textColor="@color/black"
+            android:padding="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@android:drawable/editbox_background"
+            android:textSize="16sp"/>
+
+        <Button
+            android:id="@+id/btnSaveQuick"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save Quick Note"
+            android:layout_marginTop="12dp"
+            android:backgroundTint="#FFC107"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/txtQuickList"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="16dp"
+            android:text="No notes yet"
+            android:textSize="15sp"
+            android:padding="8dp"
+            android:textColor="#222"
+            android:background="#FFF3CD"
+            android:scrollbars="vertical"/>
+    </LinearLayout>
