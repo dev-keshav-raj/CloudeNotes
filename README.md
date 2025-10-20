@@ -34,8 +34,6 @@
 ![Main Screen](screenshots/main.png)  
 ![Add Note](screenshots/add_note.png)  
 
-> *Screenshots folder should be added in your repo at `/screenshots`*
-
 ---
 
 ## Tech Stack 🛠️
