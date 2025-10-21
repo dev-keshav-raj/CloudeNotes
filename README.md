@@ -1,4 +1,4 @@
-# APK LINK
+# APK LINK ( link may be broken or revoked go with zip file )
 
 : https://drive.google.com/file/d/1DZ7mDdKtSP6pCGr6rA4Vfu3GR8BpfHo-/view?usp=sharing
 
