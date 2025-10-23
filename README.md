@@ -1,6 +1,6 @@
-# APK LINK ( link may be broken or revoked go with zip file )
+# APK LINK (ZIP) ( link may be broken or revoked go with zip file )
 
-: https://drive.google.com/file/d/1DZ7mDdKtSP6pCGr6rA4Vfu3GR8BpfHo-/view?usp=sharing
+: https://drive.google.com/file/d/1zD2lR_aLFiV6cXQGxfimYFtIbty6y7Rx/view?usp=drive_link
 
 # CloudNotes 📓
 
